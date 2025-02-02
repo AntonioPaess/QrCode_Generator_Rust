@@ -1,0 +1,1 @@
+# QrCode_Generator_Rust
