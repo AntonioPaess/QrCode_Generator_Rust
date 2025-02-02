@@ -24,3 +24,5 @@ clippy.toml
 # Arquivos do sistema operacional
 .DS_Store
 Thumbs.db
+
+To-do.txt
