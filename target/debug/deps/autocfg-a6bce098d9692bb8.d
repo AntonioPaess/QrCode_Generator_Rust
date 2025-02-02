@@ -1,0 +1,10 @@
+/Users/antoniopaesdeandrade/Documents/Developer/Rust_Curso/Qrcode_Generator_Rust/target/debug/deps/libautocfg-a6bce098d9692bb8.rmeta: /Users/antoniopaesdeandrade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs /Users/antoniopaesdeandrade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs /Users/antoniopaesdeandrade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs /Users/antoniopaesdeandrade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs
+
+/Users/antoniopaesdeandrade/Documents/Developer/Rust_Curso/Qrcode_Generator_Rust/target/debug/deps/libautocfg-a6bce098d9692bb8.rlib: /Users/antoniopaesdeandrade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs /Users/antoniopaesdeandrade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs /Users/antoniopaesdeandrade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs /Users/antoniopaesdeandrade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs
+
+/Users/antoniopaesdeandrade/Documents/Developer/Rust_Curso/Qrcode_Generator_Rust/target/debug/deps/autocfg-a6bce098d9692bb8.d: /Users/antoniopaesdeandrade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs /Users/antoniopaesdeandrade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs /Users/antoniopaesdeandrade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs /Users/antoniopaesdeandrade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs
+
+/Users/antoniopaesdeandrade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs:
+/Users/antoniopaesdeandrade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs:
+/Users/antoniopaesdeandrade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs:
+/Users/antoniopaesdeandrade/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs:
