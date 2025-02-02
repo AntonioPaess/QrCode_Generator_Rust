@@ -1,1 +1,1 @@
-/Users/antoniopaesdeandrade/Documents/Developer/Rust_Curso/Qrcode_Generator_Rust/target/debug/Qrcode_Generator_Rust: /Users/antoniopaesdeandrade/Documents/Developer/Rust_Curso/Qrcode_Generator_Rust/src/main.rs
+/Users/antoniopaesdeandrade/Documents/Developer/Rust_Curso/Rust_Projetos/QrCode_Generator_Rust/target/debug/Qrcode_Generator_Rust: /Users/antoniopaesdeandrade/Documents/Developer/Rust_Curso/Rust_Projetos/QrCode_Generator_Rust/src/main.rs
