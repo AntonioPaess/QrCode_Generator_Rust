@@ -7,6 +7,13 @@ use image::Luma;
 
 // Importando library para receber entrada do usuário.
 use std::io;
+use std::fs;
+
+
+fn dir_create(string: &str) -> std::io::Result<()>{
+    fs::create_dir_all(string)?;
+    Ok(())
+}
 
 
 fn main(){
@@ -44,11 +51,20 @@ fn main(){
 
     // Gerando o Qrcode do usuario em png.
     if confirmacao2.trim().to_lowercase() == "y"{
+
+        if let Err(e) = dir_create("qrcode_images"){
+            eprintln!("Erro ao criar diretório: {}", e);
+            return;
+        }
+
         let code = QrCode::new(entrada).unwrap();
         let image = code.render::<Luma<u8>>().build();
-        image.save("qrcode_images/qrcode.png").expect("Erro ao salvar a imagem");
         
-        println!("QrCode salvo como 'qrcode.png' em 'qrcode_images'");
+        if let Err(e) = image.save("qrcode_images/qrcode.png"){
+            eprintln!("Erro ao salvar a imagem: {}", e);
+        }else{
+            println!("QrCode salvo como 'qrcode.png' em 'qrcode_images'");
+        }
     }
     else{
         println!("Qrcode Deletado com sucesso.");
