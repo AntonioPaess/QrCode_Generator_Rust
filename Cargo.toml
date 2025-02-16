@@ -6,3 +6,5 @@ edition = "2021"
 [dependencies]
 qrcode = "0.14.1"
 image = "0.25.5"
+egui = "0.31"
+eframe = "0.31"
