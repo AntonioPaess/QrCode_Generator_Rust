@@ -1,6 +1,9 @@
 # RustQRForge - Gerador de QR Code em Rust
 
-![RustQRForge Logo](assets/logo.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/099a6794-1b87-4989-bab3-aa7f1af5c07c" width="200" alt="RustQRForge Logo">
+</p>
+
 
 Um gerador de QR Code moderno com interface gráfica, desenvolvido em Rust. Combine a eficiência do Rust com uma interface amigável para criar QR Codes facilmente.
 
@@ -57,7 +60,14 @@ eframe = "0.31"
 
 ## 🖼️ Screenshots
 
-[Aqui você pode adicionar screenshots da sua interface]
+<img width="321" alt="Captura de Tela 2025-02-16 às 00 59 53" src="https://github.com/user-attachments/assets/8446ecfe-1118-4f87-964c-34846b6b160e" />
+
+<img width="315" alt="Captura de Tela 2025-02-16 às 01 00 04" src="https://github.com/user-attachments/assets/7295c9d0-f422-4475-bf91-0d3c09fbcaaf" />
+
+<img width="302" alt="Captura de Tela 2025-02-16 às 01 03 25" src="https://github.com/user-attachments/assets/1554e52e-4447-4952-b7e2-24a8a3f9626f" />
+
+
+
 
 ## 🔧 Melhorias Futuras
 
@@ -86,3 +96,16 @@ Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para m
 - **Linkedin & email** - <a href="mailto:ajpaj@cesar.school">📧</a> - <a href="https://www.linkedin.com/in/ant%C3%B4niopaess/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a>
 
 ---
+
+## ⭐ Apoie o Projeto
+
+Se você gostou do RustQRForge, você pode apoiar o projeto:
+
+- Dando uma ⭐ no GitHub
+- Compartilhando o projeto
+- Reportando bugs
+- Sugerindo melhorias
+- Contribuindo com código
+
+### Outras formas de apoio
+Entre em contato via LinkedIn para discutir outras formas de colaboração ou apoio ao projeto.
