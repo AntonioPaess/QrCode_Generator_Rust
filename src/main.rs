@@ -94,7 +94,7 @@ fn dir_create(path: &str) -> std::io::Result<()> {
 fn main() -> Result<(), eframe::Error> {
     let options = eframe::NativeOptions::default();
     eframe::run_native(
-        "QR Code Generator",
+        "RustQRForge",
         options,
         Box::new(|_cc| Ok(Box::new(QrCodeApp::new())))  // Corrigido aqui
     )
